@@ -20,7 +20,7 @@ The most interpretable version of our model provided several meaningful insights
 - **SPR.Product.Type and Income.Level:** Both features had small positive coefficients, indicating minor but consistent contributions to retention. Product type and income level might not be as significant as other factors but still play a role.
 - **SchoolGradeType:** The small negative impact of the grade type suggests that variations in school grade levels have minimal influence on retention, but still provide some insights into the complexity of group compositions.
 
-## License
+## Ownership and Copyrights
 
 The Scholastic Travel Case and the original datasets are property of the University of Virginia and the Darden School of Business
 (Ovchinnikov, [2018](https://hbsp.harvard.edu/product/UV7579-PDF-ENG)).
